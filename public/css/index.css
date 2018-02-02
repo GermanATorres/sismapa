@@ -1,0 +1,16 @@
+/*
+* Archivos de css para el diseño
+*/
+
+@import "bootstrap.min.css";
+@import "font-awesome.min.css";
+@import "ionicons.min.css";
+
+@import "skins/_all-skins.min.css";
+@import "AdminLTE.min.css";
+
+@import "bootstrap-datepicker.min.css";
+
+.center-maps{
+  height: 700px;
+}
